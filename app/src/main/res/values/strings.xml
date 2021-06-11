@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Memorycats</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="salir">salir</string>
+    <string name="jugar">jugar</string>
+
+    <string name="reiniciar">reiniciar</string>
+    <string name="puntuacion">puntuación: </string>
+</resources>
